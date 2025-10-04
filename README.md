@@ -52,22 +52,30 @@ Social Engineering attacks are the various cons used by the hackers to trick peo
 
 **Steps to Use SET for Phishing (Credential Harvester Attack Method)**
 
-**1. Open terminal:**
-```bash
-sudo setoolkit
-```
-**2. Navigate:**
+
+
+**1. Navigate:**
 ```bash
 1) Social-Engineering Attacks  
 2) Website Attack Vectors  
 3) Credential Harvester Attack Method  
 ```
-**3. Enter your IP address as the attacker server.**
+<img width="1920" height="1080" alt="KALI 2  Running  - Oracle VirtualBox 27-09-2025 09_49_35" src="https://github.com/user-attachments/assets/5a7a242b-e205-47f6-914a-5aa4dfb864b3" />
+
+
+**2. Enter your IP address as the attacker server.**
+<img width="1920" height="1080" alt="KALI 2  Running  - Oracle VirtualBox 27-09-2025 09_49_39" src="https://github.com/user-attachments/assets/854fc8b3-bb98-4a56-b9ce-b329dca5ad93" />
+
 **4. Choose:**
 ```bash
 2) Site Cloner
 ```
+<img width="774" height="52" alt="Screenshot 2025-10-04 085520" src="https://github.com/user-attachments/assets/bb2d4621-081e-4b2c-ac26-7975d50decb1" />
+
 **5. Enter the URL of the legitimate site ```(e.g., https://accounts.google.com)```**
+
+<img width="1920" height="1080" alt="KALI 2  Running  - Oracle VirtualBox 27-09-2025 09_50_34" src="https://github.com/user-attachments/assets/77486ede-5b69-4abb-9808-015a9ae35076" />
+
 
 **6. Send the generated link to the victim.**
 
@@ -76,6 +84,7 @@ sudo setoolkit
 /var/www/html/
 ```
 
+<img width="1920" height="1080" alt="KALI 2  Running  - Oracle VirtualBox 27-09-2025 09_50_28" src="https://github.com/user-attachments/assets/31baa5b7-dbb8-4349-bdab-d8539c6aee75" />
 
 
 ## RESULT:
