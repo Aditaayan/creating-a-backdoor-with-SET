@@ -88,8 +88,8 @@ Social Engineering attacks are the various cons used by the hackers to trick peo
 ```bash
 /var/www/html/
 ```
+<img width="1622" height="645" alt="Screenshot 2025-10-06 093054" src="https://github.com/user-attachments/assets/5ea76f62-8eac-495a-aac7-6b93c6f4db7a" />
 
-<img width="1920" height="1080" alt="KALI 2  Running  - Oracle VirtualBox 27-09-2025 09_50_28" src="https://github.com/user-attachments/assets/31baa5b7-dbb8-4349-bdab-d8539c6aee75" />
 
 
 ## RESULT:
