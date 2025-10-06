@@ -60,8 +60,9 @@ Social Engineering attacks are the various cons used by the hackers to trick peo
 2) Website Attack Vectors  
 3) Credential Harvester Attack Method  
 ```
-<img width="1920" height="1080" alt="KALI 2  Running  - Oracle VirtualBox 27-09-2025 09_49_35" src="https://github.com/user-attachments/assets/5a7a242b-e205-47f6-914a-5aa4dfb864b3" />
+<img width="1178" height="697" alt="Screenshot 2025-10-06 092751" src="https://github.com/user-attachments/assets/d8a307ac-fe1a-47cc-beaa-6a2687f65c1e" />
 
+<img width="1154" height="413" alt="Screenshot 2025-10-06 092759" src="https://github.com/user-attachments/assets/276d2fb3-7635-4bcf-a4f2-aa6666c42e77" />
 
 **2. Enter your IP address as the attacker server.**
 <img width="1785" height="578" alt="Screenshot 2025-10-06 091850" src="https://github.com/user-attachments/assets/04e46849-8952-498c-8424-ec5a3e34688d" />
