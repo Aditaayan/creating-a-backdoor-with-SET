@@ -1,4 +1,4 @@
-# creating-a-backdoor-with-SET
+`# creating-a-backdoor-with-SET
 creating a backdoor with SET - Ethical Hacking Techniques course
 
 # AIM:
@@ -64,7 +64,11 @@ Social Engineering attacks are the various cons used by the hackers to trick peo
 
 
 **2. Enter your IP address as the attacker server.**
-<img width="1920" height="1080" alt="KALI 2  Running  - Oracle VirtualBox 27-09-2025 09_49_39" src="https://github.com/user-attachments/assets/854fc8b3-bb98-4a56-b9ce-b329dca5ad93" />
+<img width="1785" height="578" alt="Screenshot 2025-10-06 091850" src="https://github.com/user-attachments/assets/04e46849-8952-498c-8424-ec5a3e34688d" />
+
+<img width="1305" height="610" alt="Screenshot 2025-10-06 091859" src="https://github.com/user-attachments/assets/05648dbf-2093-49ce-a2bc-470a361b55ac" />
+
+<img width="1448" height="653" alt="Screenshot 2025-10-06 091917" src="https://github.com/user-attachments/assets/63ccb6d6-231c-4ff4-8287-3e8aaa472370" />
 
 **4. Choose:**
 ```bash
